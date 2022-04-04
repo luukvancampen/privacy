@@ -1,0 +1,1 @@
+This app processes aboslutely no user data at all.
